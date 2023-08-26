@@ -5,6 +5,7 @@ export default function Home() {
     <>
       <h2>Welcome</h2>
       Hello, WEB
+      <Image src='/Notion-logo.png' alt='' width={20} height={20} />
     </>
   )
 }
